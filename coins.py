@@ -1,3 +1,5 @@
+# implemented Greedy Algorithm to find minimum number of coins
+
 denom=[1,2,5,10,20,50,100,200,500]
 denom.reverse()
 amt=117
